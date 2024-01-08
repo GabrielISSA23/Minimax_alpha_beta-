@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "minimax.h": "c",
+        "posgraph.h": "c",
+        "gestiongraph.h": "c",
+        "morpion.h": "c",
+        "posgraphutimate.h": "c",
+        "gestiongraphultimate.h": "c"
+    }
+}
